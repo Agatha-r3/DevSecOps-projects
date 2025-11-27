@@ -1,6 +1,9 @@
-# DevSecOps Pipeline Implementation for Tic Tac Toe Game
+# DevSecOps-projects
+DevSecOps-projects for interview
 
-![Screenshot 2025-03-04 at 7 16 48 PM](https://github.com/user-attachments/assets/7ed79f9c-9144-4870-accd-500085a15592)
+## DevSecOps Pipeline Implementation for Tic Tac Toe Game
+
+![Screenshot 2025-03-04 at 7 16 48PM](https://github.com/user-attachments/assets/7ed79f9c-9144-4870-accd-500085a15592)
 
 ![image](https://github.com/user-attachments/assets/5b2813a5-f493-4665-8964-77359b5be93a)
 
@@ -56,8 +59,8 @@ The game implements the following rules:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/devsecops-demo.git
-   cd devsecops-demo
+   git clone https://github.com/Agatha-r3/DevSecOps-projects.git
+   cd DevSecOps-projects
    ```
 
 2. Install dependencies:
@@ -87,4 +90,3 @@ yarn build
 ```
 
 The build artifacts will be stored in the `dist/` directory.
-
